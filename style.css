@@ -4,3 +4,8 @@ body {
   font-family: Arial, sans-serif;
 }
 
+h1 {
+  font-weight: bold;
+  color: #fcfcfc;
+  font-size: 32px;
+}
