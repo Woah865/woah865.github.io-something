@@ -16,6 +16,10 @@ h2 {
   font-size: 32px;
 }
 
+p {
+  color: #fcfcfc;
+}
+
 div {
   border: 8px lightblue;
   padding: 20px;
